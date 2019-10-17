@@ -1,7 +1,7 @@
 # edX-IBM-Capstone-Project
 A data science and machine learning project 
 
-<b><u>Problem Statement<u><b>:
+Problem Statement:
 
 The people of New York use the 311 system to report complaints about the non-emergency problems to local authorities. Various agencies in New York are assigned these problems. The Department of Housing Preservation and Development of New York City is the agency that processes 311 complaints that are related to housing and buildings.
 
